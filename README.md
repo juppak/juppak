@@ -27,21 +27,21 @@
 ## ⭐️ Career
 Date | Organization | Role 
 ---- | ---- | ----
-2022.9 ~ | Seoul National University Hospital - IRAIL | Research Intern 
+2022.9 ~ | Seoul National University Hospital - [IRAIL](http://irail.snu.ac.kr/) | Research Intern 
 
 ## ⭐️ Educations
 
 Date | University | Major | Degree 
 ---- | ---- | ---- | ---- 
-2020.3 ~ 2022.8 | Kwangwoon Univ - INTUS Lab | Electrical Engineering | Master's Degree
-2014.3 ~ 2020.2 | Kwangwoon Univ | Electronic Engineering | Bachelor Degree
+2020.3 ~ 2022.8 | Kwangwoon Univ - INTUS Lab | Electrical Engineering | M.S.
+2014.3 ~ 2020.2 | Kwangwoon Univ | Electronic Engineering | B.S.
 
 ## ⭐️ Competitions
 
 Date | Title | Team | Remark
 ---- | ---- | ---- | ----
-2022.11 | MAIC Sleep AI Challenge 2022 ver. 3 | MEDIAI_INTERNS | TBD
-2022.11 | Medical Synthetic Data AI Challenge [X-Ray][CT] | MEDIAI_INTERNS | 최우수상(2nd)
+2022.11 | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) - [Github](https://github.com/seoulsky-field/sleep_ai_challenge_ver3) | MEDIAI_INTERNS | TBD
+2022.11 | [Medical Synthetic Data AI Challenge](https://urbandatathon.com/hackathon/scheduleDetail/1000) - [Github](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) | MEDIAI_INTERNS | 최우수상(2nd)
 
 ## ⭐️ Others
 
