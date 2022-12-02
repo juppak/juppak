@@ -40,7 +40,7 @@ Date | University | Major | Degree
 
 Date | Title | Team | Remark
 ---- | ---- | ---- | ----
-2022.11 | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) - [Github](https://github.com/seoulsky-field/sleep_ai_challenge_ver3) | MEDIAI_INTERNS | 3등
+2022.11 | [MAIC Sleep AI Challenge 2022 ver. 3](https://maic.or.kr/competitions/20/infomation) - [Github](https://github.com/seoulsky-field/sleep_ai_challenge_ver3) | MEDIAI_INTERNS | 서울대학교병원장상(3등)
 2022.11 | [Medical Synthetic Data AI Challenge](https://urbandatathon.com/hackathon/scheduleDetail/1000) - [Github](https://github.com/seoulsky-field/Medical_Synthetic_Data_AI_Challenge) | MEDIAI_INTERNS | 최우수상(2nd)
 
 ## ⭐️ Others
