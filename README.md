@@ -27,7 +27,8 @@
 ## ⭐️ Career
 Date | Organization | Role 
 ---- | ---- | ----
-2022.9 ~ | Seoul National University Hospital - [IRAIL](http://irail.snu.ac.kr/) | Research Intern 
+2023.1 ~ | LG Electronics | SW Research Engineer
+2022.9 ~ 2022.8 | Seoul National University Hospital - [IRAIL](http://irail.snu.ac.kr/) | Research Intern 
 
 ## ⭐️ Educations
 
